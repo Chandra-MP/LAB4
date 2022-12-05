@@ -1,0 +1,57 @@
+.box
+{
+    text-align: center;
+    width: fit-content;
+    margin-left: 2rem;
+    background-color: rgb(17, 243, 190);
+    border: 1px solid grey;
+    box-shadow: 3px 4px 6px rgb(35, 40, 28);
+    padding: 4rem;
+
+}
+.box1
+{
+    text-align: center;
+    width: fit-content;
+    margin-left: 2rem;
+    background-color: rgb(235, 176, 0);
+    color: royalblue;
+    border: 1px solid grey;
+    box-shadow: 3px 4px 6px rgb(35, 40, 28);
+    padding: 4rem;
+}
+.box2
+{
+    text-align: center;
+    width: fit-content;
+    margin-left: 2rem;
+    background-color: rgb(235, 39, 108);
+    color: rgb(255, 255, 255);
+    border: 1px solid grey;
+    box-shadow: 3px 4px 6px rgb(35, 40, 28);
+    padding: 4rem;
+}
+.box3
+{
+    text-align: center;
+    width: fit-content;
+    margin-left: 2rem;
+    background-color: rgb(243, 138, 129);
+    color: rgb(8, 55, 24);
+    border: 1px solid grey;
+    box-shadow: 3px 4px 6px rgb(35, 40, 28);
+    padding: 4rem;
+}
+.contain
+{
+    text-align: center;
+    width: fit-content;
+    display: flex; 
+    background-color: rgb(208, 205, 255);
+    padding: 2rem;
+}
+*
+{
+    margin: 0;
+    padding: 0;
+}
